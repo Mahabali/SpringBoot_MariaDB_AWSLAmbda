@@ -5,7 +5,7 @@ Demo for SpringBoot + Maria DB + AWSLambda
  1. Quick Starter Project for those who like to see how Maven + Spring Boot + Maria DB + AWS Lambda + API Gateway works
  2. As a whole, its a way to try Serverless Architecture using Java
 
-# Pr-requisites
+# Pre-requisites
 
  1. Java 8 and Maven
  2. Maria DB Server and a client
